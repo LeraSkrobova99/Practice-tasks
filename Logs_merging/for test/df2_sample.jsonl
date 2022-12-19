@@ -1,0 +1,10 @@
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:56:51", "message": "Bender saw a rocket in L.A. yesterday"}
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:56:57", "message": "Dr. Zoidberg took a bottle of bear at park day after tomorrow"}
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:56:57", "message": "Leela built an apple at park tomorrow"}
+{"log_level": "INFO", "timestamp": "2022-11-18 16:56:57", "message": "Dr. Zoidberg built an apple near the Square Garden today"}
+{"log_level": "ERROR", "timestamp": "2022-11-18 16:57:02", "message": "Dr. Zoidberg took a rocket at park today"}
+{"log_level": "DEBUG", "timestamp": "2022-11-18 16:57:11", "message": "Leela robbed a bottle of bear on the Mars tomorrow"}
+{"log_level": "ERROR", "timestamp": "2022-11-18 16:57:16", "message": "Leela said a mall in L.A. yesterday"}
+{"log_level": "DEBUG", "timestamp": "2022-11-18 16:57:22", "message": "Farnsworth saw a bottle of bear on the Mars yesterday"}
+{"log_level": "DEBUG", "timestamp": "2022-11-18 16:57:24", "message": "Leela played a rocket at park tomorrow"}
+{"log_level": "ERROR", "timestamp": "2022-11-18 16:57:32", "message": "Dr. Zoidberg brought a fish near the Square Garden tomorrow"}

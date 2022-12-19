@@ -1,0 +1,10 @@
+{"log_level": "ERROR", "timestamp": "2022-11-18 16:56:51", "message": "Farnsworth created a man in L.A. yesterday"}
+{"log_level": "INFO", "timestamp": "2022-11-18 16:56:52", "message": "Fry killed a mall on the Mars yesterday"}
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:56:58", "message": "Amy robbed an apple in L.A. today"}
+{"log_level": "DEBUG", "timestamp": "2022-11-18 16:57:01", "message": "Farnsworth ate a fish on the Mars day after tomorrow"}
+{"log_level": "DEBUG", "timestamp": "2022-11-18 16:57:08", "message": "Farnsworth saw a rocket at park day after tomorrow"}
+{"log_level": "INFO", "timestamp": "2022-11-18 16:57:14", "message": "Dr. Zoidberg brought a car in L.A. tomorrow"}
+{"log_level": "INFO", "timestamp": "2022-11-18 16:57:17", "message": "Leela created a fish near the Square Garden day after tomorrow"}
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:57:22", "message": "Leela built a rocket on the Mars day before yesterday"}
+{"log_level": "ERROR", "timestamp": "2022-11-18 16:57:31", "message": "Amy killed a bottle of bear near the Square Garden day after tomorrow"}
+{"log_level": "WARNING", "timestamp": "2022-11-18 16:57:40", "message": "Farnsworth brought a bottle of bear in L.A. yesterday"}
